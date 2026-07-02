@@ -1,5 +1,5 @@
 {
-    "version": "2.0.5",
-    "message": "Dostępna jest nowa wersja programu.\n\nAktualizacja zawiera:\n• Poprawki kalendarza",
-    "url": "https://github.com/grzegorzurbanski-hash/DesignFlowUpdate/releases/download/v2.0.5/DesignFlowUpdate.exe"
+    "version": "2.0.6",
+    "message": "Dostępna jest nowa wersja programu.\n\nNowości:\n• Usprawniony kalendarz (kolory, centrowanie na dziś, pełna lista konstruktorów)\n• Lokalne repozytorium aktualizacji\n• Przełączanie zadań między projektami\n• Integracja z zapytaniami SharePoint",
+    "url": "https://github.com/grzegorzurbanski-hash/DesignFlowUpdate/releases/download/v2.0.6/DesignFlowUpdate.exe"
 }
